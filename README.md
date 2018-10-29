@@ -1,0 +1,1 @@
+This test project was created for the System Testing of Google.com Search Engine. I used various technologies such as Selenium, Cucumber, JUnit, Lambda expressions, Page Object Model (POM), PageFactory class.
